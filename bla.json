@@ -1,0 +1,1426 @@
+[
+  {
+    "num_oportunidade": 103513,
+    "nome_cliente": "AREZZO",
+    "segmento": "B2C - Leve",
+    "potencial": 320050,
+    "analista": "Wesley Soares",
+    "comercial": "Claudia Gimenes"
+  },
+  {
+    "num_oportunidade": 96292,
+    "nome_cliente": "WE PINK",
+    "segmento": "B2C - Leve",
+    "potencial": 369614.01,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 74602,
+    "nome_cliente": "GRÁFICA PRINT II",
+    "segmento": "B2C - Leve",
+    "potencial": 150000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 103507,
+    "nome_cliente": "LOJAS DULAR",
+    "segmento": "B2C - Leve",
+    "potencial": 86400,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": 103507,
+    "nome_cliente": "LOJAS DULAR",
+    "segmento": "B2C - Leve",
+    "potencial": 86400,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "SUPERCOMMERCE",
+    "segmento": "B2C - Leve",
+    "potencial": "",
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 103504,
+    "nome_cliente": "FRIOVIX",
+    "segmento": "B2C - Leve",
+    "potencial": 80000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": 81647,
+    "nome_cliente": "SALON LINE",
+    "segmento": "B2C - Leve",
+    "potencial": 127000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 72670,
+    "nome_cliente": "C&A",
+    "segmento": "B2C - Leve",
+    "potencial": 150000,
+    "analista": "Wesley Soares",
+    "comercial": "Vanessa Dias"
+  },
+  {
+    "num_oportunidade": 72692,
+    "nome_cliente": "CAVES",
+    "segmento": "B2C - Leve",
+    "potencial": 26842,
+    "analista": "Wesley Soares",
+    "comercial": "Alecsander Fagundes"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "KABUM - ALTERAÇÃO ESCOPO",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Claudia Gimenes"
+  },
+  {
+    "num_oportunidade": 99486,
+    "nome_cliente": "ALIBABA - CAINIAO",
+    "segmento": "B2C - Leve",
+    "potencial": 200000,
+    "analista": "Wesley Soares",
+    "comercial": "Vanessa Dias"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "VCI - ARAMIS II ALTERAÇÃO DE ESCOPO ( EDI )",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": "RELAC",
+    "nome_cliente": "COBASI - ALTERAÇÃO DE ESCOPO",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Nalita"
+  },
+  {
+    "num_oportunidade": 88296,
+    "nome_cliente": "ART LIMP",
+    "segmento": "B2C - Leve",
+    "potencial": 10000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 65299,
+    "nome_cliente": "LIQUIDAR",
+    "segmento": "B2C - Pesado",
+    "potencial": 30000,
+    "analista": "Wesley Soares",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 78426,
+    "nome_cliente": "NEVE PREMIUM",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Wesley Soares",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 70339,
+    "nome_cliente": "SINO EXPRESSO PESADO",
+    "segmento": "B2C - Pesado",
+    "potencial": 25000,
+    "analista": "Wesley Soares",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": "CONSULT",
+    "nome_cliente": "CENTAURO EXPANSÃO- 6 LOJAS",
+    "segmento": "SFx",
+    "potencial": 2106.72,
+    "analista": "Vera Lopes",
+    "comercial": "Claudio Jr."
+  },
+  {
+    "num_oportunidade": 103514,
+    "nome_cliente": "MELHOR ENVIO - INTEGRADOR",
+    "segmento": "SFx",
+    "potencial": 291700,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "SOTREQ",
+    "segmento": "SFx",
+    "potencial": 0,
+    "analista": "Vera Lopes",
+    "comercial": "Marcos Fontes"
+  },
+  {
+    "num_oportunidade": 103516,
+    "nome_cliente": "CLIQUE E RETIRE - INTEGRADOR",
+    "segmento": "SFx",
+    "potencial": 3000,
+    "analista": "Vera Lopes",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "SUPPORTE II",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Adriano Ferreira"
+  },
+  {
+    "num_oportunidade": 99484,
+    "nome_cliente": "PEGAKI - ALIEXPRESS SFX",
+    "segmento": "SFx",
+    "potencial": 200000,
+    "analista": "Vera Lopes",
+    "comercial": "Adriano Ferreira"
+  },
+  {
+    "num_oportunidade": 70317,
+    "nome_cliente": "ARCO EDUCAÇÃO",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Wesley Soares",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 81343,
+    "nome_cliente": "ARCO EDUCAÇÃO",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Wesley Soares",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 81345,
+    "nome_cliente": "ARCO EDUCAÇÃO",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Wesley Soares",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 88295,
+    "nome_cliente": "ARCO EDUCAÇÃO",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Wesley Soares",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": "CONSULT",
+    "nome_cliente": "CARREFOUR B2C",
+    "segmento": "B2C - Pesado",
+    "potencial": 0,
+    "analista": "Wesley Soares",
+    "comercial": "Claudio Jr."
+  },
+  {
+    "num_oportunidade": 74277,
+    "nome_cliente": "DROGARIA SP",
+    "segmento": "B2C - Leve",
+    "potencial": 323200,
+    "analista": "Wesley Soares",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 97341,
+    "nome_cliente": "IMPERIO DAS ESSENCIAS",
+    "segmento": "B2C - Leve",
+    "potencial": 5000,
+    "analista": "Bruno Rocha",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 93332,
+    "nome_cliente": "RCELL",
+    "segmento": "B2B",
+    "potencial": 245000,
+    "analista": "Wesley Soares",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 87561,
+    "nome_cliente": "ALIBABA CAINIAO - SFX",
+    "segmento": "SFx",
+    "potencial": 1501000.3,
+    "analista": "Vera Lopes",
+    "comercial": "Vanessa Dias"
+  },
+  {
+    "num_oportunidade": 105437,
+    "nome_cliente": "INBRANDS",
+    "segmento": "B2B",
+    "potencial": 80000,
+    "analista": "Wesley Soares",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 88359,
+    "nome_cliente": "C&A SFX",
+    "segmento": "SFx",
+    "potencial": 60000,
+    "analista": "Vera Lopes",
+    "comercial": "Adriano Ferreira"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "DATA LOGÍSTICA",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Wesley Soares",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 117409,
+    "nome_cliente": "CONSTANCE CALÇADOS",
+    "segmento": "B2B",
+    "potencial": 40000,
+    "analista": "Wesley Soares",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 97417,
+    "nome_cliente": "MASON EQUIPAMENTOS",
+    "segmento": "B2C - Leve",
+    "potencial": 30000,
+    "analista": "Kelly Santos",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 118419,
+    "nome_cliente": "ZEBRANDS",
+    "segmento": "B2C - Leve",
+    "potencial": 10000,
+    "analista": "Kelly Santos",
+    "comercial": "Claudia Conte"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "FRIOVIX - PESADO",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "FRIOVIX - PESADO",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "FRIOVIX - PESADO",
+    "segmento": "B2C - Pesado",
+    "potencial": 0,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": 121509,
+    "nome_cliente": "ZEBRANDS - PESADO",
+    "segmento": "B2C - Pesado",
+    "potencial": 10000,
+    "analista": "Kelly Santos",
+    "comercial": "Claudia Conte"
+  },
+  {
+    "num_oportunidade": 118428,
+    "nome_cliente": "SOMOS EDUCAÇÃO",
+    "segmento": "B2C - Leve",
+    "potencial": 274000,
+    "analista": "Kelly Santos",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 121559,
+    "nome_cliente": "LIQUIDAR - PESADO",
+    "segmento": "B2B",
+    "potencial": 10000,
+    "analista": "Wesley Soares",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 121413,
+    "nome_cliente": "SHOPEE - EXPANSÃO - 134 LOJAS",
+    "segmento": "SFx",
+    "potencial": 252575,
+    "analista": "Bruno Rocha",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 115443,
+    "nome_cliente": "AMOR DE LUXO",
+    "segmento": "B2C - Leve",
+    "potencial": 20000,
+    "analista": "Bruno Rocha",
+    "comercial": "Claudia Conte"
+  },
+  {
+    "num_oportunidade": 70304,
+    "nome_cliente": "MX PARTS MX BIKES",
+    "segmento": "B2C - Leve",
+    "potencial": 78000,
+    "analista": "Kelly Santos",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "ISLA SEMENTES II",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Alecsander Fagundes"
+  },
+  {
+    "num_oportunidade": 117405,
+    "nome_cliente": "STARTUPBEAUT",
+    "segmento": "B2C - Leve",
+    "potencial": 89464.07,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 105470,
+    "nome_cliente": "DUX NUTRITION",
+    "segmento": "B2C - Leve",
+    "potencial": 97400,
+    "analista": "Kelly Santos",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 105475,
+    "nome_cliente": "DUX NUTRITION",
+    "segmento": "B2B",
+    "potencial": 26587,
+    "analista": "Kelly Santos",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": "RELAC",
+    "nome_cliente": "PRIVALIA",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Lucas Vicente",
+    "comercial": "Gilcélia Coelho"
+  },
+  {
+    "num_oportunidade": "RELAC",
+    "nome_cliente": "INFOAR - ALTERAÇÃO DE ESCOPO",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Poliana"
+  },
+  {
+    "num_oportunidade": 103619,
+    "nome_cliente": "CONECTA LÁ",
+    "segmento": "SFx",
+    "potencial": 100000,
+    "analista": "Vera Lopes",
+    "comercial": "Adriano Ferreira"
+  },
+  {
+    "num_oportunidade": "RELAC",
+    "nome_cliente": "B4A - ALTERAÇÃO ",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Nalita"
+  },
+  {
+    "num_oportunidade": 99431,
+    "nome_cliente": "TRACK FIELD - EXPANSÃO 1 LOJA RJ",
+    "segmento": "SFx",
+    "potencial": 30000,
+    "analista": "Bruno Rocha",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 74382,
+    "nome_cliente": "ELETROSOM - PESADO",
+    "segmento": "B2C - Pesado",
+    "potencial": 80000,
+    "analista": "Wesley Soares",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": 103446,
+    "nome_cliente": "MARTINENSE",
+    "segmento": "B2C - Leve",
+    "potencial": 100000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 74904,
+    "nome_cliente": "OBER",
+    "segmento": "B2B",
+    "potencial": 65142,
+    "analista": "Wesley Soares",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "GRUPO FERRAMENTAS",
+    "segmento": "B2C - Pesado",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 123442,
+    "nome_cliente": "SHOPEE - 552 LOJAS",
+    "segmento": "SFx",
+    "potencial": 1030886,
+    "analista": "Vera Lopes",
+    "comercial": ""
+  },
+  {
+    "num_oportunidade": 123445,
+    "nome_cliente": "SOMA COVENCIONAL  2 LOJAS ",
+    "segmento": "SFx",
+    "potencial": 5000,
+    "analista": "Vera Lopes",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 123439,
+    "nome_cliente": "SOMA MULTIMARCAS 1 LOJAS ",
+    "segmento": "SFx",
+    "potencial": 2500,
+    "analista": "Vera Lopes",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 56294,
+    "nome_cliente": "NAGEM",
+    "segmento": "B2C - Leve",
+    "potencial": 97295,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 56295,
+    "nome_cliente": "NAGEM",
+    "segmento": "B2C - Leve",
+    "potencial": 22537,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 56296,
+    "nome_cliente": "NAGEM",
+    "segmento": "B2C - Leve",
+    "potencial": 16603,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 51400,
+    "nome_cliente": "GRUPO EMBELLEZE",
+    "segmento": "B2B",
+    "potencial": 58646,
+    "analista": "Bruno Rocha",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 118418,
+    "nome_cliente": "GRUPO EMBELLEZE",
+    "segmento": "B2B",
+    "potencial": 12185,
+    "analista": "Bruno Rocha",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 125408,
+    "nome_cliente": "SHOPEE - 370 LOJAS",
+    "segmento": "SFx",
+    "potencial": 693505,
+    "analista": "Vera Lopes",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "BE FREE - ALTERAÇÃO DE ESCOPO",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 122453,
+    "nome_cliente": "LEPIN - PESADO",
+    "segmento": "B2C - Pesado",
+    "potencial": 20000,
+    "analista": "Lucas Vicente",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 103469,
+    "nome_cliente": "LUPO S.A.",
+    "segmento": "B2C - Leve",
+    "potencial": 263408,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 78384,
+    "nome_cliente": "WMS COMERCIO A",
+    "segmento": "B2C - Leve",
+    "potencial": 3000,
+    "analista": "Bruno Rocha",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "ALL NATIONS - ALTERAÇÃO DE ESCOPO",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 117409,
+    "nome_cliente": "CONSTANCE CALÇADOS B2C",
+    "segmento": "B2C - Leve",
+    "potencial": 40000,
+    "analista": "Wesley Soares",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": "RELAC",
+    "nome_cliente": "WHIRLPOOL - ALTERAÇÃO DE ESCOPO",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Gilcélia Coelho"
+  },
+  {
+    "num_oportunidade": 125462,
+    "nome_cliente": "TRACK FIELD - EXPANSÃO SFX 1 LOJA PB",
+    "segmento": "SFx",
+    "potencial": 15000,
+    "analista": "Vera Lopes",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 126452,
+    "nome_cliente": "SOMA - 2 LOJAS SP/BA",
+    "segmento": "SFx",
+    "potencial": 5000,
+    "analista": "Vera Lopes",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 125454,
+    "nome_cliente": "SOMA - MM 1 LOJAS PE",
+    "segmento": "SFx",
+    "potencial": 2500,
+    "analista": "Vera Lopes",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "MOBLY HUB TRANSPORTADORA",
+    "segmento": "B2C - Pesado",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Adriano Ferreira"
+  },
+  {
+    "num_oportunidade": 103528,
+    "nome_cliente": "RENNER - WHATSAAP",
+    "segmento": "SFx",
+    "potencial": 100000,
+    "analista": "Vera Lopes",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 106413,
+    "nome_cliente": "RIACHUELO - WHATSAPP",
+    "segmento": "SFx",
+    "potencial": 0,
+    "analista": "Vera Lopes",
+    "comercial": "Claudia Gimenes"
+  },
+  {
+    "num_oportunidade": 94302,
+    "nome_cliente": "PASSAROS DA TERRA",
+    "segmento": "B2C - Leve",
+    "potencial": 32436.82,
+    "analista": "Kelly Santos",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 125405,
+    "nome_cliente": "GREENBELT LABS",
+    "segmento": "B2C - Leve",
+    "potencial": 184600,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 128431,
+    "nome_cliente": "SOUQ  2 LOJAS  SP/GO",
+    "segmento": "SFx",
+    "potencial": 1000,
+    "analista": "Vera Lopes",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": "PROJ",
+    "nome_cliente": "DROPS ",
+    "segmento": "SFx",
+    "potencial": 0,
+    "analista": "Wesley Soares",
+    "comercial": "Vagner"
+  },
+  {
+    "num_oportunidade": "RELAC",
+    "nome_cliente": "TRACK FIELD",
+    "segmento": "SFx",
+    "potencial": 0,
+    "analista": "Vera Lopes",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 121409,
+    "nome_cliente": "SOFFI",
+    "segmento": "B2C - Pesado",
+    "potencial": 10000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 77534,
+    "nome_cliente": "ESTOQUEI",
+    "segmento": "B2C - Pesado",
+    "potencial": 8000,
+    "analista": "Lucas Vicente",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": 120444,
+    "nome_cliente": "CASA PET",
+    "segmento": "B2C - Pesado",
+    "potencial": 30000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 128544,
+    "nome_cliente": "STUDIO Z ",
+    "segmento": "SFx",
+    "potencial": 3000,
+    "analista": "Vera Lopes",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 128461,
+    "nome_cliente": "SHOPEE - 770 LOJAS",
+    "segmento": "SFx",
+    "potencial": 1442980,
+    "analista": "Bruno Rocha",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 129479,
+    "nome_cliente": "SHOPEE - 1 LOJA - SC",
+    "segmento": "SFx",
+    "potencial": 1874,
+    "analista": "Bruno Rocha",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 130420,
+    "nome_cliente": "SHOPEE - 1 LOJA - SP",
+    "segmento": "SFx",
+    "potencial": 1874,
+    "analista": "Bruno Rocha",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": "RELAC",
+    "nome_cliente": "AREZZO TA (ALT. ESCOPO)",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Wesley Soares",
+    "comercial": "Claudia Gimenes"
+  },
+  {
+    "num_oportunidade": 130419,
+    "nome_cliente": "BRAZILIAN COMERCIO ",
+    "segmento": "B2C - Leve",
+    "potencial": 65000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 122464,
+    "nome_cliente": "BRAZILIAN COMERCIO - SFX",
+    "segmento": "SFx",
+    "potencial": 10000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "HIPER VAREJO- TA ( ALT. ESCOPO) ",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 124445,
+    "nome_cliente": "SF HOME",
+    "segmento": "B2B",
+    "potencial": 20000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 130451,
+    "nome_cliente": "LEPIN  - PLIMOR",
+    "segmento": "B2B",
+    "potencial": 7000,
+    "analista": "Lucas Vicente",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 128406,
+    "nome_cliente": "METALURGICA MOR",
+    "segmento": "B2C - Pesado",
+    "potencial": 250000,
+    "analista": "Kelly Santos",
+    "comercial": "Alecsander Fagundes"
+  },
+  {
+    "num_oportunidade": 125485,
+    "nome_cliente": "HAOMA II",
+    "segmento": "B2C - Leve",
+    "potencial": 92418,
+    "analista": "Kelly Santos",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": 130748,
+    "nome_cliente": "SHOPEE - 1 LOJA PR",
+    "segmento": "SFx",
+    "potencial": 1874,
+    "analista": "Bruno Rocha",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 77335,
+    "nome_cliente": "BELA MAGAZINE PESADO",
+    "segmento": "B2C - Pesado",
+    "potencial": 100000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": 106430,
+    "nome_cliente": "TOP SHOP",
+    "segmento": "B2C - Leve",
+    "potencial": 128735.09,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Adriano Ferreira"
+  },
+  {
+    "num_oportunidade": 126431,
+    "nome_cliente": "GREENDENE  SFX  12 LOJAS",
+    "segmento": "SFx",
+    "potencial": 18000,
+    "analista": "Vera Lopes",
+    "comercial": ""
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "ALLIED WOOZA - ALT DE ESCOPO CTE",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Nalita"
+  },
+  {
+    "num_oportunidade": 126499,
+    "nome_cliente": "MTC SHOP",
+    "segmento": "B2B",
+    "potencial": 2500,
+    "analista": "Lucas Vicente",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 130533,
+    "nome_cliente": "MARTINENSE PNEUS - TA",
+    "segmento": "B2B",
+    "potencial": 60000,
+    "analista": "Lucas Vicente",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 131410,
+    "nome_cliente": "PROMEX",
+    "segmento": "B2C - Leve",
+    "potencial": 196667,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 131524,
+    "nome_cliente": "SHOPEE - 2 LOJAS",
+    "segmento": "SFx",
+    "potencial": 3748,
+    "analista": "Bruno Rocha",
+    "comercial": ""
+  },
+  {
+    "num_oportunidade": 123429,
+    "nome_cliente": "CLOUDWALK",
+    "segmento": "Bancario",
+    "potencial": 20000,
+    "analista": "Kelly Santos",
+    "comercial": "Claudia Conte"
+  },
+  {
+    "num_oportunidade": 106402,
+    "nome_cliente": "SHOPEE - 581 LOJAS",
+    "segmento": "SFx",
+    "potencial": 1088794,
+    "analista": "Bruno Rocha",
+    "comercial": ""
+  },
+  {
+    "num_oportunidade": 89454,
+    "nome_cliente": "ZAX APP",
+    "segmento": "B2C - Leve",
+    "potencial": 159246,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 87403,
+    "nome_cliente": "SMART ENVIOS III",
+    "segmento": "B2C - Leve",
+    "potencial": 100000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": "00002",
+    "nome_cliente": "GCS COMERCIO DE PNEUS EIRELI",
+    "segmento": "B2C - Pesado",
+    "potencial": 235000,
+    "analista": "Lucas Vicente",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 88308,
+    "nome_cliente": "FURACAO PET ",
+    "segmento": "B2B",
+    "potencial": 302097,
+    "analista": "Kelly Santos",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 131521,
+    "nome_cliente": "SOMA MM 1 LOJA   MT",
+    "segmento": "SFx",
+    "potencial": 2500,
+    "analista": "Vera Lopes",
+    "comercial": ""
+  },
+  {
+    "num_oportunidade": 137502,
+    "nome_cliente": "MVX COMÉRCIO ELETRÔNICO S.A",
+    "segmento": "B2B",
+    "potencial": 410800,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": "",
+    "nome_cliente": "HELIANTO",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Lucas Vicente",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 131667,
+    "nome_cliente": "PIC ENVIOS",
+    "segmento": "B2C - Leve",
+    "potencial": 72000,
+    "analista": "Kelly Santos",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 99403,
+    "nome_cliente": "PIMPOLHO PRODUTOS INFANTIS",
+    "segmento": "B2B",
+    "potencial": 108600,
+    "analista": "Lucas Vicente",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 131520,
+    "nome_cliente": "EVOLUSOM",
+    "segmento": "B2B",
+    "potencial": 50000,
+    "analista": "Lucas Vicente",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 130640,
+    "nome_cliente": "TRW BIKES",
+    "segmento": "B2C - Pesado",
+    "potencial": 320600,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Samara Oliveira"
+  },
+  {
+    "num_oportunidade": 131592,
+    "nome_cliente": "SHOPEE - 1 LOJA SC ",
+    "segmento": "SFx",
+    "potencial": 1874,
+    "analista": "Bruno Rocha",
+    "comercial": ""
+  },
+  {
+    "num_oportunidade": 81603,
+    "nome_cliente": "CAROLINA BABY",
+    "segmento": "B2C - Pesado",
+    "potencial": 111000,
+    "analista": "Lucas Vicente",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "MB SHOPP",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Lucas Vicente",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 59299,
+    "nome_cliente": "WURTH",
+    "segmento": "B2B",
+    "potencial": 590000,
+    "analista": "Wesley Soares",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 132417,
+    "nome_cliente": "SHOPEE - 228 LOJAS",
+    "segmento": "SFx",
+    "potencial": 427272,
+    "analista": "Bruno Rocha",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": "RELAC",
+    "nome_cliente": "DECATHLON (ALT. TA)",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Wesley Soares",
+    "comercial": "Nalita"
+  },
+  {
+    "num_oportunidade": "RELAC",
+    "nome_cliente": "DECATHLON (ALT. SQA)",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Wesley Soares",
+    "comercial": "Nalita"
+  },
+  {
+    "num_oportunidade": 97361,
+    "nome_cliente": "ANHANGUERA COMERCIO DE FERRAMENTAS LTDA",
+    "segmento": "B2B",
+    "potencial": 295000,
+    "analista": "Wesley Soares",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 131592,
+    "nome_cliente": "SOMA 1 LOJA  STA BARBARA",
+    "segmento": "SFx",
+    "potencial": 2500,
+    "analista": "Vera Lopes",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 132458,
+    "nome_cliente": "SOMA 1 LOJA RIO DE JANEIRO ",
+    "segmento": "SFx",
+    "potencial": 2500,
+    "analista": "Vera Lopes",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 132468,
+    "nome_cliente": "GRENDENE 23 LOJAS",
+    "segmento": "SFx",
+    "potencial": 10000,
+    "analista": "Vera Lopes",
+    "comercial": "Alecsander Fagundes"
+  },
+  {
+    "num_oportunidade": "",
+    "nome_cliente": "NESTLE BRASIL LTDA",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Wesley Soares",
+    "comercial": "Claudio Jr."
+  },
+  {
+    "num_oportunidade": 136415,
+    "nome_cliente": "SHOPEE - 4 LOJAS",
+    "segmento": "SFx",
+    "potencial": 7496,
+    "analista": "Bruno Rocha",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": "",
+    "nome_cliente": "BURIGOTTO ",
+    "segmento": "B2B",
+    "potencial": 0,
+    "analista": "Lucas Vicente",
+    "comercial": "Simone Moraes"
+  },
+  {
+    "num_oportunidade": 132460,
+    "nome_cliente": "EUROTEXTIL COMERCIO E IMPORTACAO LTDA",
+    "segmento": "B2B",
+    "potencial": 100000,
+    "analista": "Bruno Rocha",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 99491,
+    "nome_cliente": "SOPRANO ELETROMETALURGICA LTDA",
+    "segmento": "B2B",
+    "potencial": 381800,
+    "analista": "Lucas Vicente",
+    "comercial": "Alecsander Fagundes"
+  },
+  {
+    "num_oportunidade": 78728,
+    "nome_cliente": "JR COMERCIO DE BICICLETAS E ACESSORIOS LTDA",
+    "segmento": "B2B",
+    "potencial": 65200,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 136404,
+    "nome_cliente": "SOMA 1 LOJA CATANDUVA",
+    "segmento": "SFx",
+    "potencial": 2500,
+    "analista": "Vera Lopes",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 78556,
+    "nome_cliente": "GRENDENE  B2C",
+    "segmento": "B2C - Leve",
+    "potencial": 163000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Alecsander Fagundes"
+  },
+  {
+    "num_oportunidade": 78335,
+    "nome_cliente": "MVA COMERCIAL EIRELE",
+    "segmento": "B2C - Leve",
+    "potencial": 50000,
+    "analista": "Lucas Vicente",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 72713,
+    "nome_cliente": "MEGAMAMUTE COMÉRCIO",
+    "segmento": "B2C - Pesado",
+    "potencial": 57000,
+    "analista": "Wesley Soares",
+    "comercial": "Claudia Gimenes"
+  },
+  {
+    "num_oportunidade": "PROJ",
+    "nome_cliente": "GHSX FILIAL ",
+    "segmento": "SFx",
+    "potencial": 0,
+    "analista": "",
+    "comercial": ""
+  },
+  {
+    "num_oportunidade": 95293,
+    "nome_cliente": "D ITALIA MOVEIS IND.LTDA",
+    "segmento": "B2C - Pesado",
+    "potencial": 20000,
+    "analista": "Lucas Vicente",
+    "comercial": "Alecsander Fagundes"
+  },
+  {
+    "num_oportunidade": 92358,
+    "nome_cliente": "CZ INDUSTRIA E COMERCIO DE MOV",
+    "segmento": "B2C - Pesado",
+    "potencial": 46600,
+    "analista": "Lucas Vicente",
+    "comercial": "Alecsander Fagundes"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "B4A - ALTERAÇÃO 2",
+    "segmento": "B2C - Leve",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Nalita"
+  },
+  {
+    "num_oportunidade": 137549,
+    "nome_cliente": "SOMA MULTIMARCAS 1 LOJA",
+    "segmento": "SFx",
+    "potencial": 2500,
+    "analista": "Bruno Rocha",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": "COML",
+    "nome_cliente": "GRENDENE SFX",
+    "segmento": "SFx",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Alecsander Fagundes"
+  },
+  {
+    "num_oportunidade": 107471,
+    "nome_cliente": "NETMOBIL INDUSTRIA E COMERCIO DE MOVEIS LTDA",
+    "segmento": "B2C - Pesado",
+    "potencial": 108400,
+    "analista": "Lucas Vicente",
+    "comercial": "Alecsander Fagundes"
+  },
+  {
+    "num_oportunidade": 137419,
+    "nome_cliente": "I.P.CLEANING INDUSTRIA E COMERCIO LTDA",
+    "segmento": "B2B",
+    "potencial": 71900,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 138507,
+    "nome_cliente": "I.P.CLEANING INDUSTRIA E COMERCIO LTDA",
+    "segmento": "B2B",
+    "potencial": 31500,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 138404,
+    "nome_cliente": "SHOPEE - 228 LOJAS NOVO",
+    "segmento": "SFx",
+    "potencial": 427272,
+    "analista": "Bruno Rocha",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 137410,
+    "nome_cliente": "RECH SFX REDES - 6 LOJAS",
+    "segmento": "SFx",
+    "potencial": 2400,
+    "analista": "Vera Lopes",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 137415,
+    "nome_cliente": "RECH SFX REDES - 6 LOJAS",
+    "segmento": "SFx",
+    "potencial": 2300,
+    "analista": "Vera Lopes",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 137409,
+    "nome_cliente": "RECH SFX REDES - 6 LOJAS",
+    "segmento": "SFx",
+    "potencial": 2000,
+    "analista": "Vera Lopes",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 103535,
+    "nome_cliente": "RECH SFX REDES - 6 LOJAS",
+    "segmento": "SFx",
+    "potencial": 2000,
+    "analista": "Vera Lopes",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 137416,
+    "nome_cliente": "RECH SFX REDES - 6 LOJAS",
+    "segmento": "SFx",
+    "potencial": 2300,
+    "analista": "Vera Lopes",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 103534,
+    "nome_cliente": "RECH SFX REDES - 6 LOJAS",
+    "segmento": "SFx",
+    "potencial": 2300,
+    "analista": "Vera Lopes",
+    "comercial": "Felipe Gautério"
+  },
+  {
+    "num_oportunidade": 138490,
+    "nome_cliente": "SHOPEE - 1 LOJA",
+    "segmento": "SFx",
+    "potencial": 1874,
+    "analista": "Bruno Rocha",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 77515,
+    "nome_cliente": "IMPERIAL MAQUINAS",
+    "segmento": "B2C - Pesado",
+    "potencial": 5000,
+    "analista": "Kelly Santos",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": 74382,
+    "nome_cliente": "ELETROSOM (ALTERAÇÂO ESCOPO)",
+    "segmento": "B2C - Pesado",
+    "potencial": "",
+    "analista": "Wesley Soares",
+    "comercial": "Gisele Abreu"
+  },
+  {
+    "num_oportunidade": 138549,
+    "nome_cliente": "SHOPEE- 03 LOJAS",
+    "segmento": "SFx",
+    "potencial": 5622,
+    "analista": "Bruno Rocha",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 72707,
+    "nome_cliente": "USAFLEX",
+    "segmento": "B2C - Leve",
+    "potencial": 95613.41,
+    "analista": "Kelly Santos",
+    "comercial": "Alecsander Fagundes"
+  },
+  {
+    "num_oportunidade": 138575,
+    "nome_cliente": "SHOPEE - 265 LOJAS",
+    "segmento": "SFx",
+    "potencial": 492149,
+    "analista": "Bruno Rocha",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": "RELAC",
+    "nome_cliente": "TRACK&FIELD",
+    "segmento": "SFx",
+    "potencial": 0,
+    "analista": "Kelly Santos",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": "RELAC",
+    "nome_cliente": "FRENET",
+    "segmento": "SFx",
+    "potencial": "",
+    "analista": "Kelly Santos",
+    "comercial": "Guilherme Frederick"
+  },
+  {
+    "num_oportunidade": 139438,
+    "nome_cliente": "9 LOJAS - SHOPEE",
+    "segmento": "SFx",
+    "potencial": 16866,
+    "analista": "Paola Santana",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 139481,
+    "nome_cliente": "ALPAR DO BRASIL INDUSTRIA E COMERCIO LTDA",
+    "segmento": "B2B",
+    "potencial": "",
+    "analista": "Kelly Santos",
+    "comercial": "Adriano Ferreira"
+  },
+  {
+    "num_oportunidade": 139469,
+    "nome_cliente": "SHOPEE - 524 LOJAS",
+    "segmento": "SFx",
+    "potencial": 981976,
+    "analista": "Vera Lopes",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 138563,
+    "nome_cliente": "MEAD JOHNSON",
+    "segmento": "B2B",
+    "potencial": 237828,
+    "analista": "Wesley Soares",
+    "comercial": "Fernanda Santana"
+  },
+  {
+    "num_oportunidade": 137598,
+    "nome_cliente": "EDITORA ROCCO",
+    "segmento": "B2B",
+    "potencial": 100000,
+    "analista": "Gabriel Almeida Luiz",
+    "comercial": "Valéria Penzin"
+  },
+  {
+    "num_oportunidade": 140474,
+    "nome_cliente": "SHOPEE - ATIVAÇÃO 11 LOJAS",
+    "segmento": "SFx",
+    "potencial": 20614,
+    "analista": "Vera Lopes",
+    "comercial": "Carlos Sandrini"
+  },
+  {
+    "num_oportunidade": 128546,
+    "nome_cliente": "USAFLEX - ATIVAÇÃO 5 LOJAS",
+    "segmento": "SFx",
+    "potencial": 2000,
+    "analista": "Vera Lopes",
+    "comercial": "Alecsander Fagundes"
+  },
+  {
+    "num_oportunidade": 140525,
+    "nome_cliente": "GRUPO SOMA - 1 LOJA",
+    "segmento": "SFx",
+    "potencial": 2500,
+    "analista": "Vera Lopes",
+    "comercial": "Carlos Sandrini"
+  }
+]

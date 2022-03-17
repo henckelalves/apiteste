@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 const clienteSchema = mongoose.Schema(
   {
-    num_oportunidade: Number,
+    num_oportunidade: String,
     nome_cliente: String,
     segmento: String,
     potencial: Number,
