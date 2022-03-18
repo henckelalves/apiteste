@@ -38,6 +38,25 @@ app.get("/implantacao/clientes", (req, res) => {
   });
 });
 
+app.get("/implantacao/clientes/sum", (req, res) => {
+  Cliente.aggregate(
+    [
+      {
+        $group: {
+          _id: "$segmento",
+        },
+      },
+    ],
+
+    function (err, result) {
+      if (err) {
+        res.send(err);
+      } else {
+        res.json(result);
+      }
+    }
+  );
+});
 app.get("/implantacao/clientes/:id", (req, res) => {
   let id = req.params.id;
   Cliente.findById(id, (err, data) => {
