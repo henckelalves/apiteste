@@ -7,16 +7,18 @@ import {
   Button,
   Card,
   Box,
+  Grid,
 } from "@material-ui/core";
 import { useParams } from "react-router";
 
 const Cliente = () => {
   const [isLoading, setLoading] = useState(true);
-  const [clientes, setClientes] = useState([]);
-
-  async function fetchData() {
-    const res = await axios.get("/implantacao/clientes/" + params.id);
-    setClientes(res.data);
+  const [cliente, setCliente] = useState([]);
+  const { id } = useParams();
+  console.log(id);
+  async function fetchCliente() {
+    const res = await axios.get("/implantacao/clientes/" + id);
+    setCliente(res.data);
     setLoading(false);
   }
 
@@ -26,7 +28,7 @@ const Cliente = () => {
   });
 
   useEffect(() => {
-    fetchData();
+    fetchCliente();
   }, []);
 
   if (isLoading) {
@@ -47,29 +49,35 @@ const Cliente = () => {
 
   return (
     <div>
-      <Box sx={{ minWidth: "33%", display: "inline-block" }}>
-        <Card variant="outlined">
+      <Grid
+        container
+        spacing={0}
+        direction="column"
+        alignItems="center"
+        justifyContent="center"
+        style={{ minHeight: "100vh" }}
+      >
+        <Card style={{ width: "30vw", height: "500px" }} variant="outlined">
           <CardContent>
             <Typography
               sx={{ fontSize: 14 }}
               color="textSecondary"
               gutterBottom
             >
-              {clientes[0].segmento}
+              {cliente.segmento}
             </Typography>
             <Typography variant="h5" component="div">
-              {clientes[0].nome_cliente}
+              {cliente.nome_cliente}
             </Typography>
             <Typography sx={{ mb: 1.5 }} style={{ color: "#00AA00" }}>
-              {formatter.format(clientes[0].potencial)}
+              {formatter.format(cliente.potencial)}
             </Typography>
             <Typography sx={{ mb: 1.5 }} color="textSecondary">
-              {clientes[0].analista}
+              {cliente.analista}
             </Typography>
           </CardContent>
         </Card>
-      </Box>
-      ))
+      </Grid>
     </div>
   );
 };
