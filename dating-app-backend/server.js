@@ -38,12 +38,13 @@ app.get("/implantacao/clientes", (req, res) => {
   });
 });
 
-app.get("/implantacao/clientes/sum", (req, res) => {
+app.get("/resumo/esteira/total", (req, res) => {
   Cliente.aggregate(
     [
       {
         $group: {
           _id: "$segmento",
+          total: { $sum: "$potencial" },
         },
       },
     ],
@@ -57,6 +58,7 @@ app.get("/implantacao/clientes/sum", (req, res) => {
     }
   );
 });
+
 app.get("/implantacao/clientes/:id", (req, res) => {
   let id = req.params.id;
   Cliente.findById(id, (err, data) => {
